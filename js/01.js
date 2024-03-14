@@ -8,3 +8,4 @@ while (K < INDICE) {
 }
 
 console.log(SOMA);
+//Resposta 91
